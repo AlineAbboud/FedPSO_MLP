@@ -6,10 +6,10 @@ algorithm FedPSO-MLP that uses particle swarm optimization with the help of regr
 Install
 This project requires Python and the following Python libraries installed:
 
-NumPy
-Pandas
-scikit-learn
-MLPRegressor
+NumPy, 
+Pandas, 
+scikit-learn, 
+MLPRegressor.
 
 You will also need to have software installed to run and execute a Pycharm IDE.
 
