@@ -7,7 +7,7 @@ Install all the packages from requirments.txt
 <li>Pandas
 <li>scikit-learn
 <li>MLPRegressor
-</ol>
+</ol><br>
 You will also need to have software installed to run and execute a Pycharm IDE.
 
 # Data
