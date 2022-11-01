@@ -1,5 +1,7 @@
 #  FedPSO-MLP: Federated Learning MLP using Particle Swarm Optimization
 
+<img src='./doc/imgs/Framework Architecture- showing the weight update process of FedPSO-MLP.png' >
+
 # Requirements
 Install all the packages from requirments.txt
 <ul>
