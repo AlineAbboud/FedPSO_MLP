@@ -22,3 +22,5 @@ The baseline experiment trains the model in the conventional way.
 
 To run the baseline experiment with MNIST on MLP using CPU:<br>
 &nbsp; python ./FedPSO_MLP.py
+<pre><b>Hello</b> &nbsp; python ./FedPSO_MLP.py</pre>
+
