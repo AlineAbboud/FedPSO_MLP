@@ -20,3 +20,7 @@ The baseline experiment trains the model in the conventional way.
 To run the baseline experiment with MNIST on MLP using CPU:<br>
 <pre><b> &nbsp; python ./FedPSO_MLP.py </b> </pre>
 
+# Citation
+If you find our work useful in your research, please cite:
+
+Aline Abbouda, Mohamed-el-Amine Brahmiab, Rocks Mazraania, Abdelhafid Abouaissac and Ahmad Shahin <b>A Hybrid Aggregation Approach for Federated Learning to Improve Energy Consumption in Smart Buildings</b>, 2022.
