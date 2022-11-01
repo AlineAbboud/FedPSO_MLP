@@ -2,6 +2,7 @@
 
 <img src='./doc/imgs/Framework Architecture- showing the weight update process of FedPSO-MLP.png' title='Schematic diagram of the proposed FedPSO-MLP
 model' >
+<center>Schematic diagram of the proposed FedPSO-MLP model</center>
 
 # Requirements
 Install all the packages from requirments.txt
