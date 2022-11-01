@@ -1,5 +1,5 @@
 #  FedPSO-MLP: Federated Learning MLP using Particle Swarm Optimization
-In this work, we propose a hybrid protocol called FedPSO-MLP that combines particle swarm optimization algorithms with multilayer perceptron models to update the global model by collecting weights from learned models and to provide optimal solutions.<br>
+In this work, we propose a hybrid protocol called FedPSO-MLP that combines particle swarm optimization algorithms with multilayer perceptron models to update the global model by collecting weights from learned models and to provide optimal solutions.<br><br>
 The experiments demonstrated that our proposed FedPSO- MLP outperformed the most famous Federated Averaging algorithm FedAvg, achieving an accuracy of 96%. Moreover, it showed an improvement in decreasing error by approximately 75%. <br>
 
 <img src='./doc/imgs/Framework Architecture- showing the weight update process of FedPSO-MLP.png' title='Schematic diagram of the proposed FedPSO-MLP
