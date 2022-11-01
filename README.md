@@ -5,12 +5,12 @@ algorithm FedPSO-MLP that uses particle swarm optimization with the help of regr
 
 # Install
 This project requires Python and the following Python libraries installed:
-
+<pre><b>
 NumPy, 
 Pandas, 
 scikit-learn, 
 MLPRegressor.
-
+ </b> </pre>
 You will also need to have software installed to run and execute a Pycharm IDE.
 
 # Data
@@ -21,6 +21,5 @@ These data were collected and disseminated according to this publication: https:
 The baseline experiment trains the model in the conventional way.
 
 To run the baseline experiment with MNIST on MLP using CPU:<br>
-&nbsp; python ./FedPSO_MLP.py
-<pre><b>Hello</b> &nbsp; python ./FedPSO_MLP.py</pre>
+<pre><b> &nbsp; python ./FedPSO_MLP.py </b> </pre>
 
