@@ -28,4 +28,4 @@ To run the baseline experiment on FedPSO-MLP using CPU:<br>
 
 # Citation
 If you find our work useful in your research, please cite:
-<pre>Aline Abboud, Mohamed-el-Amine Brahmia, Rocks Mazraani, Abdelhafid Abouaissa and Ahmad Shahin, <b>"A Hybrid Aggregation Approach for Federated Learning to Improve Energy Consumption in Smart Buildings"</b>, 2022.</pre>
+Aline Abboud, Mohamed-el-Amine Brahmia, Rocks Mazraani, Abdelhafid Abouaissa and Ahmad Shahin, <b>"A Hybrid Aggregation Approach for Federated Learning to Improve Energy Consumption in Smart Buildings"</b>, 2022.
