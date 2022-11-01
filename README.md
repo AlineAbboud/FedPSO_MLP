@@ -23,7 +23,7 @@ These data were collected and disseminated according to this publication: https:
 # Running the experiments
 The baseline experiment trains the model in the conventional way.
 
-To run the baseline experiment with MNIST on MLP using CPU:<br>
+To run the baseline experiment on FedPSO-MLP using CPU:<br>
 <pre><b> &nbsp; python ./FedPSO_MLP.py </b> </pre>
 
 # Citation
